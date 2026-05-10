@@ -33,6 +33,10 @@
 ## 安装
 
 ```bash
+# 方式1：npx（推荐）
+npx skills add ncsbymtzkk-cloud/buffett-perspective
+
+# 方式2：SkillHub
 skillhub install https://github.com/ncsbymtzkk-cloud/buffett-perspective
 ```
 
